@@ -4,6 +4,8 @@
 
 This project aims to create an interactive and informative HR analytics dashboard using Microsoft Excel. The dashboard is designed to be a powerful tool for data analysis and decision-making for HR professionals and organizational leaders. It includes various pivot tables and charts that provide insights into key HR metrics.
 
+![HR Analytics Dashboard](https://your-repo-url.com/path-to-your-image.png)
+
 ## Key Features
 
 ### Average Monthly Income by Gender
