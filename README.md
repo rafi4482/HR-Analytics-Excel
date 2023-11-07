@@ -4,7 +4,7 @@
 
 This project aims to create an interactive and informative HR analytics dashboard using Microsoft Excel. The dashboard is designed to be a powerful tool for data analysis and decision-making for HR professionals and organizational leaders. It includes various pivot tables and charts that provide insights into key HR metrics.
 
-![HR Analytics Dashboard]([[https://your-repo-url.com](https://github.com/rafi4482/HR-Analytics-Excel/tree/main)/HR.png](https://github.com/rafi4482/HR-Analytics-Excel/blob/main/HR.png))
+![Alt Text](images/HR.png)
 
 ## Key Features
 
